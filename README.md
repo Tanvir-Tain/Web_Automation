@@ -1,7 +1,7 @@
 
 # SmartCarePRO
 
-In this Document , I wrie to automation script for  Hospital Management Web App ( https://carepro-training.ihmafrica.com/ )
+In this Document , I wrote to automation script for Hospital Management Web App ( https://carepro-training.ihmafrica.com/ )
 
 
 ## Tools 
