@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-23T14:10:41 BDT" name="Default suite" finished-at="2024-05-23T14:12:35 BDT" duration-ms="113452">
+    <groups>
+    </groups>
+    <test started-at="2024-05-23T14:10:41 BDT" name="Default test" finished-at="2024-05-23T14:12:35 BDT" duration-ms="113452">
+      <class name="Excel_Technologies_Ltd.com.Excel_Technologies_Ltd.Cutting_Edge_Hospital_Management">
+        <test-method is-config="true" signature="startbrowser()[pri:0, instance:Excel_Technologies_Ltd.com.Excel_Technologies_Ltd.Cutting_Edge_Hospital_Management@17f62e33]" started-at="2024-05-23T14:10:39 BDT" name="startbrowser" finished-at="2024-05-23T14:10:41 BDT" duration-ms="2083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method signature="signin()[pri:1, instance:Excel_Technologies_Ltd.com.Excel_Technologies_Ltd.Cutting_Edge_Hospital_Management@17f62e33]" started-at="2024-05-23T14:10:41 BDT" name="signin" finished-at="2024-05-23T14:11:05 BDT" duration-ms="23966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method signature="selcetFaculty()[pri:2, instance:Excel_Technologies_Ltd.com.Excel_Technologies_Ltd.Cutting_Edge_Hospital_Management@17f62e33]" started-at="2024-05-23T14:11:05 BDT" name="selcetFaculty" finished-at="2024-05-23T14:11:21 BDT" duration-ms="15527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selcetFaculty -->
+        <test-method signature="searchoraddpatients()[pri:3, instance:Excel_Technologies_Ltd.com.Excel_Technologies_Ltd.Cutting_Edge_Hospital_Management@17f62e33]" started-at="2024-05-23T14:11:21 BDT" name="searchoraddpatients" finished-at="2024-05-23T14:11:31 BDT" duration-ms="10626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchoraddpatients -->
+        <test-method signature="servicepont()[pri:4, instance:Excel_Technologies_Ltd.com.Excel_Technologies_Ltd.Cutting_Edge_Hospital_Management@17f62e33]" started-at="2024-05-23T14:11:31 BDT" name="servicepont" finished-at="2024-05-23T14:11:38 BDT" duration-ms="6284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- servicepont -->
+        <test-method signature="patientInformation()[pri:5, instance:Excel_Technologies_Ltd.com.Excel_Technologies_Ltd.Cutting_Edge_Hospital_Management@17f62e33]" started-at="2024-05-23T14:11:38 BDT" name="patientInformation" finished-at="2024-05-23T14:12:35 BDT" duration-ms="56990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patientInformation -->
+        <test-method is-config="true" signature="endbrowser()[pri:0, instance:Excel_Technologies_Ltd.com.Excel_Technologies_Ltd.Cutting_Edge_Hospital_Management@17f62e33]" started-at="2024-05-23T14:12:35 BDT" name="endbrowser" finished-at="2024-05-23T14:12:35 BDT" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endbrowser -->
+      </class> <!-- Excel_Technologies_Ltd.com.Excel_Technologies_Ltd.Cutting_Edge_Hospital_Management -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
