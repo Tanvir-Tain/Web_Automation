@@ -23,7 +23,7 @@ In this Document , I wrote to automation script for Hospital Management Web App 
 
 ## Working Process 
 
-To run automation script I follow this process 
+To run the automation script in the directory of  Excel_Technologies_Ltd/src/test/java/Excel_Technologies_Ltd/com by  follow this process 
 
 ```bash
 1.For Browser Set Up using Web Driver Manager .
@@ -40,3 +40,4 @@ To run automation script I follow this process
 - [Screen Short Link ](https://prnt.sc/dKrVw6bwKjU6)
 
 
+![AutomationScript](https://github.com/Tanvir-Tain/Web_Automation/assets/49960242/2af05b86-5792-46df-9ba8-b63a96fb282e)
