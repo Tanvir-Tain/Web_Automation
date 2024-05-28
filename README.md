@@ -47,6 +47,7 @@ Test Case 5- patientInformation(): After successfully passing previous test case
 ![Screenshot](https://prnt.sc/dKrVw6bwKjU6)
 
 - [Screen Short Link ](https://prnt.sc/dKrVw6bwKjU6)
+- [Screen Record Link  ]([https://prnt.sc/dKrVw6bwKjU6](https://drive.google.com/file/d/1t6I89sojDoLDu8it9XU0LOixgNgiy2Ia/view?usp=sharing))
 
 
 ![AutomationScript](https://github.com/Tanvir-Tain/Web_Automation/assets/49960242/2af05b86-5792-46df-9ba8-b63a96fb282e)
