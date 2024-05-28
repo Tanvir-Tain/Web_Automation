@@ -106,18 +106,6 @@ public class Cutting_Edge_Hospital_Management extends BaseDriverEXCL {
 		}
 		
 		
-		
-//		//thum button
-//		driver.findElement(By.xpath("//button[contains(text(),'Skip')]")).click();
-//		driver.findElement(By.xpath("//body/div[@id='root']/div[2]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/input[1]")).click();
-//		Thread.sleep(2000);
-//		driver.findElement(By.xpath("//span[contains(text(),'Save')]")).click();
-//		Thread.sleep(2000);
-//
-//		driver.navigate().forward();  // service-points
-//		Thread.sleep(2000);
-		
-		
 	}
 	
 @Test(priority = 4)	
